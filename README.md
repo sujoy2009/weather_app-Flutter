@@ -5,9 +5,11 @@
 
 
 
-## What you will create
+![image](https://user-images.githubusercontent.com/55844514/199514178-c0fa3a14-39fb-4f7b-a8f5-1e34460bc506.png)
 
-We’re going to make a weather app inspired by the beautiful designs made by . By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+
+1.This app   can provide current location
+2.According to latittude and longitude temperature and weather is predicted
+3.A ready made free API is intrigated for all prediction
 
